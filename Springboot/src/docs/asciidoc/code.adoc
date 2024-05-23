@@ -1,0 +1,30 @@
+=== 코드 그룹 신규 추가
+include::{snippets}/code-controller-test/code-group-register-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-group-register-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-group-register-test/http-response.adoc[]
+
+=== 코드 그룹 중복 체크
+include::{snippets}/code-controller-test/code-group-duplicate-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-group-duplicate-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-group-duplicate-test/http-response.adoc[]
+
+=== 코드 그룹 목록 조회
+include::{snippets}/code-controller-test/code-group-list-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-group-list-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-group-list-test/http-response.adoc[]
+
+=== 코드 신규 추가
+include::{snippets}/code-controller-test/code-register-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-register-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-register-test/http-response.adoc[]
+
+=== 코드 중복 체크
+include::{snippets}/code-controller-test/code-duplicate-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-duplicate-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-duplicate-test/http-response.adoc[]
+
+=== 코드 목록 조회
+include::{snippets}/code-controller-test/code-list-test/curl-request.adoc[]
+include::{snippets}/code-controller-test/code-list-test/http-request.adoc[]
+include::{snippets}/code-controller-test/code-list-test/http-response.adoc[]
+

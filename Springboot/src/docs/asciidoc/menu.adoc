@@ -1,0 +1,6 @@
+=== 메뉴 신규 추가
+include::{snippets}/menu-controller-test/register-test/curl-request.adoc[]
+include::{snippets}/menu-controller-test/register-test/http-request.adoc[]
+include::{snippets}/menu-controller-test/register-test/http-response.adoc[]
+
+
